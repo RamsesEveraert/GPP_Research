@@ -1,1 +1,1 @@
-# GPP_Research
+# Research Topic: Environmental Query System (EQS)
